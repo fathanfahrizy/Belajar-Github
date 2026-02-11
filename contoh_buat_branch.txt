@@ -1,2 +1,2 @@
 ini contoh branches yang error
-ini branch 2 dan
+ini branch 2 dan ini commit keduanya
